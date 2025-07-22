@@ -204,7 +204,8 @@ FROM cte
 ORDER BY 2 DESC
 
 
-Find tracks where the energy-to-liveness ratio is greater than 1.2.
-Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+
+
+	
 
 
